@@ -42,6 +42,6 @@ This repository will provide theoretical descriptions of:
 - **LoRA** (For model fine-tuning)
 
 ## 📌 Note
-This repository is focused on **understanding the theory and foundational concepts of AI Agents**. It does not include code implementations, quizzes, or assignments.
+This repository is focused on **understanding the theory and foundational concepts of AI Agents**.
 
 Stay tuned for more updates and theoretical insights! 😊
