@@ -81,10 +81,10 @@ Each LLM has some **special tokens** specific to the model, which indicate the s
 
 | Model      | Provider     | EOS Token         | Functionality                    |
 |------------|--------------|------------------|----------------------------------|
-| GPT-4      | OpenAI       | `<|endoftext|>`    | End of message text              |
-| LLaMA 3    | Meta         | `<|eot_id|>`       | End of sequence                  |
-| Deepseek-R1| DeepSeek     | `<|end_of_sentence|>`| End of message text            |
-| SmolLM2    | Hugging Face | `<|im_end|>`       | End of instruction or message    |
+| GPT-4      | OpenAI       | `<end_of_text>`    | End of message text              |
+| LLaMA 3    | Meta         | `<eot_id>`      | End of sequence                  |
+| Deepseek-R1| DeepSeek     | `<end_of_sentence>`| End of message text            |
+| SmolLM2    | Hugging Face | `<im_end>`      | End of instruction or message    |
 | Gemma      | Google       | `<end_of_turn>`    | End of conversation turn         |
 
 ---
@@ -153,10 +153,4 @@ You have two main options:
 - LLMs are powerful AI models designed to **predict the next token** in a sequence.
 - They excel at **natural language understanding and generation**.
 - They are the core reasoning engine of AI Agents, providing them with the ability to **understand, plan, and respond**.
-
----
-
-Would you like me to prepare **some cool visuals to explain the concepts of LLMs**, such as the **Transformer architecture, attention mechanism, and tokenization process**? 
-
-Also, shall I proceed to show you how to **integrate this code into your repository's `README.md`** with visuals? 😊
 
