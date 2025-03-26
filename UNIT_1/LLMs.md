@@ -1,6 +1,6 @@
 # 📚 What are LLMs? 🤖
 
-In the previous section, we learned that each Agent needs an **AI Model at its core**, and that **LLMs (Large Language Models)** are the most common type of AI models for this purpose. 
+Previously, we learned that each Agent needs an **AI Model at its core**, and that **LLMs (Large Language Models)** are the most common type of AI models for this purpose. 
 
 Now, let’s dive into understanding what LLMs are and how they power AI Agents.
 
